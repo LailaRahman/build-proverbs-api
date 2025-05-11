@@ -1,0 +1,186 @@
+[
+  {
+    "id": 1,
+    "textDari": "آب که یک‌جا بماند، می‌گندد.",
+    "textPashto": "اوبه چې ودریږي، بوی کوي.",
+    "translationEn": "Stagnant water stinks.",
+    "meaning": "Lack of movement or progress leads to problems.",
+    "category": "wisdom"
+  },
+  {
+    "id": 2,
+    "textDari": "هر که طلا جوید، خاک بسیار بیند.",
+    "textPashto": "چا چې سره زر غواړي، ډېرې خاورې لټوي.",
+    "translationEn": "He who seeks gold must sift through much dirt.",
+    "meaning": "Great rewards require patience and hard work.",
+    "category": "advice"
+  },
+  {
+    "id": 3,
+    "textDari": "زبان شیرین، مار را رام می‌کند.",
+    "textPashto": "خوږه ژبه مار اراموي.",
+    "translationEn": "A sweet tongue tames a snake.",
+    "meaning": "Gentle words can defuse danger.",
+    "category": "wisdom"
+  },
+  {
+    "id": 4,
+    "textDari": "کار امروز را به فردا میفکن.",
+    "textPashto": "د نن کار سبا ته مه پرېږده.",
+    "translationEn": "Don't put off today's work for tomorrow.",
+    "meaning": "Procrastination can lead to missed opportunities.",
+    "category": "advice"
+  },
+  {
+    "id": 5,
+    "textDari": "باد آورده را باد می‌برد.",
+    "textPashto": "د باد په راوړل شویو باد لګيږي.",
+    "translationEn": "What comes with the wind, goes with the wind.",
+    "meaning": "Easy gains can be easily lost.",
+    "category": "wisdom"
+  },
+  {
+    "id": 6,
+    "textDari": "دو صد گفته چون نیم کردار نیست.",
+    "textPashto": "زر خبرې د یوه عمل هومره نه وي.",
+    "translationEn": "A thousand words are not worth half a deed.",
+    "meaning": "Actions speak louder than words.",
+    "category": "wisdom"
+  },
+  {
+    "id": 7,
+    "textDari": "مار گزیده از ریسمان سیاه و سفید می‌ترسد.",
+    "textPashto": "د مار چیچلی له تور او سپین رسۍ ویریږي.",
+    "translationEn": "A snake-bitten person fears even a black and white rope.",
+    "meaning": "Trauma makes people overly cautious.",
+    "category": "wisdom"
+  },
+  {
+    "id": 8,
+    "textDari": "از تو حرکت، از خدا برکت.",
+    "textPashto": "ته حرکت وکړه، خدای به برکت درکړي.",
+    "translationEn": "You make the move, and God will bless it.",
+    "meaning": "Divine help comes with personal effort.",
+    "category": "faith"
+  },
+  {
+    "id": 9,
+    "textDari": "هر که با بدان نشیند، اگر نیکو هم باشد بد می‌شود.",
+    "textPashto": "چا چې له بدو سره کیني، که ښه هم وي، بد کیږي.",
+    "translationEn": "He who sits with the bad, becomes bad even if he was good.",
+    "meaning": "Bad company corrupts character.",
+    "category": "advice"
+  },
+  {
+    "id": 10,
+    "textDari": "چاه‌کن همیشه ته چاه است.",
+    "textPashto": "چا ته چې کنده کنې، خپله به پرې لویږې.",
+    "translationEn": "He who digs a pit for others falls into it himself.",
+    "meaning": "Harming others often backfires.",
+    "category": "wisdom"
+  },
+  {
+    "id": 11,
+    "textDari": "هر چه کنی به خود کنی.",
+    "textPashto": "هر څه چې کوې، ځان ته یې کوې.",
+    "translationEn": "What you do, you do to yourself.",
+    "meaning": "Your actions have consequences for you.",
+    "category": "wisdom"
+  },
+  {
+    "id": 12,
+    "textDari": "به عمل کار برآید، به سخندانی نیست.",
+    "textPashto": "کار په عمل سره کیږي، نه په خبرو.",
+    "translationEn": "Deeds bring results, not fine words.",
+    "meaning": "Success requires action, not just talk.",
+    "category": "advice"
+  },
+  {
+    "id": 13,
+    "textDari": "نابرده رنج، گنج میسر نمی‌شود.",
+    "textPashto": "بې له کړاو څخه خزانه نه ترلاسه کیږي.",
+    "translationEn": "Without pain, no gain.",
+    "meaning": "Success comes through effort and hardship.",
+    "category": "advice"
+  },
+  {
+    "id": 14,
+    "textDari": "سوزن را گم کرده، دنبال جوالدوز می‌گردد.",
+    "textPashto": "ستنه یې ورکه کړې، د غټو ستنو پسې ګرځي.",
+    "translationEn": "He lost a needle but looks for a big one.",
+    "meaning": "Ignoring small losses while pursuing unrealistic gains.",
+    "category": "humor"
+  },
+  {
+    "id": 15,
+    "textDari": "یک دست صدا ندارد.",
+    "textPashto": "یوه لاس غږ نه لري.",
+    "translationEn": "One hand alone makes no sound.",
+    "meaning": "Teamwork is essential.",
+    "category": "wisdom"
+  },
+  {
+    "id": 16,
+    "textDari": "جلوی ضرر را از هر کجا بگیری، منفعت است.",
+    "textPashto": "تاوان له هر ځایه چې ونیسې، ګټه ده.",
+    "translationEn": "Stopping a loss anywhere is a gain.",
+    "meaning": "It's never too late to correct a mistake.",
+    "category": "advice"
+  },
+  {
+    "id": 17,
+    "textDari": "هر کسی خربزه می‌خورد، پای لرزش هم باید بنشیند.",
+    "textPashto": "چا چې خټکي وخوړ، باید د نس درد یې وزغمي.",
+    "translationEn": "He who eats melon must also bear its stomachache.",
+    "meaning": "Every action has consequences.",
+    "category": "wisdom"
+  },
+  {
+    "id": 18,
+    "textDari": "کوه به کوه نمی‌رسد، آدم به آدم می‌رسد.",
+    "textPashto": "غرونه یو له بله نه سره جنګېږي، خلک سره جنګېږي.",
+    "translationEn": "Mountains don't meet, but people do.",
+    "meaning": "You may encounter someone again, so treat them well.",
+    "category": "advice"
+  },
+  {
+    "id": 20,
+    "textDari": "در دروازه را می‌شود بست، ولی دهان مردم را نه.",
+    "textPashto": "د دروازه بندول شوني دي، خو د خلکو خولې نه بندېږي.",
+    "translationEn": "You can close a door, but not people's mouths.",
+    "meaning": "You can't stop people from gossiping.",
+    "category": "wisdom"
+  },
+  {
+    "id": 21,
+    "textDari": "تا نباشد چیزکی، مردم نگویند چیزها.",
+    "textPashto": "چې څه نه وي، خلک څه نه وايي.",
+    "translationEn": "There’s no smoke without fire.",
+    "meaning": "Rumors often have some basis.",
+    "category": "wisdom"
+  },
+  {
+    "id": 22,
+    "textDari": "در مثل مناقشه نیست.",
+    "textPashto": "متل ته اعتراض نه وي.",
+    "translationEn": "There's no arguing with a proverb.",
+    "meaning": "Proverbs convey established truths.",
+    "category": "wisdom"
+  },
+  {
+    "id": 23,
+    "textDari": "دل به دل راه دارد.",
+    "textPashto": "زړه زړه پېژني.",
+    "translationEn": "Heart speaks to heart.",
+    "meaning": "There’s an unspoken connection between people.",
+    "category": "wisdom"
+  },
+  {
+    "id": "24",
+    "textDari": "کارد به استخوان رسید.",
+    "textPashto": "چاقو هډوکي ته ورسېد.",
+    "translationEn": "The knife reached the bone.",
+    "meaning": "The situation has become unbearable.",
+    "category": "wisdom"
+  }
+]
